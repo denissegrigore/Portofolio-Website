@@ -7,6 +7,7 @@ Copy code
 
 Welcome to my portfolio! Here are some of the projects I've worked on:
 
+
 ## Proiecte
 - [Proiect 1](link către repository-ul proiectului)
 - [Proiect 2](link către repository-ul proiectului)
